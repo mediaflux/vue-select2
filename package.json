@@ -1,0 +1,17 @@
+{
+  "name": "vue-select2",
+  "version": "1.0.0",
+  "description": "Vue2 Select2 component",
+  "main": "index.js",
+  "repository": {
+    "url": "https://github.com/mediaflux/vue-select2",
+    "type": "git"
+  },
+  "author": "Media Flux",
+  "license": "MIT",
+  "peerDependencies": {
+    "jquery": "^3.1.1",
+    "select2": "^4.0.3",
+    "vue": "^2.0.5"
+  }
+}
